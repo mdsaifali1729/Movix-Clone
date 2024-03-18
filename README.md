@@ -1,18 +1,48 @@
 # Movix 
-Movix is clone of hotStar.com . It is a most UI based  website using HTML SCSS & Javascript & React
+Movix clone is a responsive Movie website build using HTML,CSS, Javascript, React.js and also used Redux for state management.
+It has features such as movie search, genre filtering, and a detailed view for individual movies.
 
 Team members: 
-1. Shaguin Sharma
+1. MD Saif Ali
+2. Tushar Singh
 
-TechStack:
-1. React
-2. React-Router-Dom
-3. Redux-ToolKit
-4. Scss
-5. Day JS (npm package for formatiing date) 
-6. react-circular-progressbar (for rating progress)
-7. react-player  (npm package for play movies Trailer Video's) 
-8. react-infinite-scroll-component  (npm package for infinite Scroll) 
+
+
+🛠️ Tech Stack:
+
+React.js: The heart of the project, providing a dynamic and efficient user interface. React.js Official
+
+Redux Toolkit: Empowering the app with scalable state management. Redux Toolkit Official
+
+Axios: Handling API requests smoothly for fast and reliable data retrieval. Axios Official
+
+Day.js: Seamless handling of dates and times. Day.js Official
+
+React Circular Progressbar: Sleek circular progress bar for visual appeal. React Circular Progressbar Official
+
+React Icons: Easily add icons for visual engagement. React Icons Official
+
+React Infinite Scroll Component: Delightful infinite scrolling experience. React Infinite Scroll Component Official
+
+React Lazy Load Image Component: Efficiently loading images for optimized performance. React Lazy Load Image Component Official
+
+React Player: Seamless integration of video playback. React Player Official
+
+React Redux: Efficient React-Redux connection for state management. React Redux Official
+
+React Router DOM: Seamless page navigation with React Router. React Router DOM Official
+
+React Select: Stylish dropdowns for enhanced user interactions. React Select Official
+
+Sass: Styling with the power and flexibility of Sass. Sass Official
+ 
+🎥 Project Highlights:
+
+Custom Hooks: Leveraging the power of custom hooks for seamless API integration and loading spinner management. Custom hooks simplify the process of fetching data from the Movix API, ensuring a smooth and efficient user experience.
+
+Infinite Scrolling: Enjoy a fluid left-to-right scrolling experience, making movie discovery a breeze. Infinite scrolling transforms Movix into an engaging platform, allowing users to explore an extensive movie catalog effortlessly.
+
+Carousel Implementation: Effortlessly glide through content with a carousel feature, enhancing user engagement. The carousel feature adds a dynamic and interactive element to Movix, making the user experience visually appealing and enjoyable.
 
 
 ----------------Contents of Web-Site------------------------
